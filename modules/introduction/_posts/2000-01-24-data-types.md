@@ -14,6 +14,8 @@ are attributes that specify the type of data an object can hold.
 > **3) Tabular**
 
 <br>
+  <br>
+    <br>
 
 ### **Data formats**
 are specific or preferred file extensions for sharing, re-use, and preserving data.
