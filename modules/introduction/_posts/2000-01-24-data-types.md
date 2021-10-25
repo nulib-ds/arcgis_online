@@ -8,9 +8,11 @@ title: Data Types and Formats
 <br>
 
 > GIS uses three main data types:<br>
-> 1) **Vector**<br>
-> 2) **Raster** <br>
-> 3) **Tabular**
+> **1) Vector**
+> 
+> **2) Raster**
+> 
+> **3) Tabular**
 
 <br>
 
