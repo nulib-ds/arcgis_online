@@ -35,7 +35,7 @@ published: true
     <br>
       <br>
 
-### **Goal of this workshop**
+### **Workshop Goal**
 > This workshop is meant to serve as an introduction to esri's ArcGIS Online web-based browser. It's a simple workshop, where you should be able to replicate some of the steps we cover today. 
 
 <br>
