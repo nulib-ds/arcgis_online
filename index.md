@@ -5,6 +5,7 @@ published: true
 
 ## **Welcome! Let's get mapping.** 
 
+<br>
 
 ### **Presenters**
 > Kelsey Rydland - Data Science Librarian
@@ -14,16 +15,12 @@ published: true
 > Geospatial and Data Services - Northwestern University Libraries
 
 <br>
-  <br>
-    <br>
       
 <center>
   <h3 style="color:purple;"><a href="mailto:gis@northwestern.edu?subject=GIS support"> gis@northwestern.edu </a></h3>
 </center>
 
 <br>
-  <br>
-    <br>
      
 > * Drop your name and institution you're affiliated with in chat!
 >
