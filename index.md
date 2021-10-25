@@ -22,8 +22,6 @@ published: true
 
 <br>
      
-> * Drop your name and institution you're affiliated with in chat!
->
 > * We'll be using ArcGIS Online for today's demo. You'll need to create an account [here.](https://northwestern.maps.arcgis.com/home/index.html)
 >
 > * ArcGIS Online is compatiable with Mac and Windows OS. 
