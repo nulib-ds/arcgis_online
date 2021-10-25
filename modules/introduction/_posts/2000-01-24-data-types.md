@@ -1,9 +1,9 @@
 ---
 title: Data Types and Formats
 ---
-<html>
   
-<h4>Data types</h4> are attributes that specify the type of data an object can hold.</html>
+### **Data types**
+are attributes that specify the type of data an object can hold.</html>
 
 <br>
 
