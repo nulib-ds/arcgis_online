@@ -3,20 +3,23 @@ layout: index
 published: true
 ---
 
-## Welcome! Let's get mapping. 
-
-<br>
+## **Welcome! Let's get mapping.** 
 
 * Drop your name and institution you're affiliated with in chat!
+
 * Don't have an ArcOnline account yet? Create one <a href="https://northwestern.maps.arcgis.com/home/index.html">here.</a>
+
 * Want to follow along the demo? [Download Data](/arcgis-online/gis-data/arconline_data_s21.zip)
 
-<br>
 
-### Presenters
-> Kelsey Rydland - Data Science Librarian <br>
-> Méch Frazier - Geospatial Specialist <br>
-Geospatial and Data Services - Northwestern University Libraries <br>
+
+### **Presenters**
+> Kelsey Rydland - Data Science Librarian
+> 
+> Méch Frazier - Geospatial Specialist
+> 
+> Geospatial and Data Services - Northwestern University Libraries
+
 
 <center>
   <h3 style="color:purple;"><a href="mailto:gis@northwestern.edu?subject=GIS support"> gis@northwestern.edu </a></h3>
