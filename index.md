@@ -84,3 +84,5 @@ Copy and paste the text below as needed
 > * Spatial join: `Superfund Sites by Districts`
 >
 > * Enrichment analysis: `State Population 2021`
+> 
+> * Buffer Analysis: `Newark Hospitals 3 mile Buffer`
