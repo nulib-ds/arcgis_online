@@ -69,3 +69,12 @@ Our data we'll use today comes from here:
 > [Newark Hospitals](https://data.ci.newark.nj.us/dataset/newark-hospitals)
 > 
 > [US State Boundaries](https://www.census.gov/cgi-bin/geo/shapefiles/index.php)
+
+<br>
+  <br>
+    <br>
+      <br>
+      
+### **During the Demo**
+Copy and paste the text below as needed
+> Spatial Join: `Superfund Sites by Districts`
