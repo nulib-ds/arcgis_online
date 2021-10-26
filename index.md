@@ -77,4 +77,4 @@ Our data we'll use today comes from here:
       
 ### **During the Demo**
 Copy and paste the text below as needed
-> Spatial Join: `Superfund Sites by Districts`
+> * Spatial Join: `Superfund Sites by Districts`
