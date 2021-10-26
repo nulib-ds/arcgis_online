@@ -4,7 +4,7 @@ title: Workshop schedule
 
 <br>
 
-#### We offer workshops each quarter covering various GIS softwares and spatial topics. An updated workshop list can be found [here](https://planitpurple.northwestern.edu/#search=/0/8//%22GIS%22). 
+**We offer workshops each quarter covering various GIS softwares and spatial topics. An updated workshop list can be found [here.](https://planitpurple.northwestern.edu/#search=/0/8//%22GIS%22)** 
 
 <br>
 
@@ -12,4 +12,4 @@ title: Workshop schedule
 
 <br>
 
-# 🌐 🌏 Thank you for attending! 🌏 🌐
+## 🌐 🌏 Thank you for attending! 🌏 🌐
