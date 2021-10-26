@@ -1,6 +1,7 @@
 ---
 title: Tutorials and Workflows
 ---
+Check out the pages below if you want more practice or documentation on tools covered in today's demo. 
 
 ### [**Add Data to Map**](https://doc.arcgis.com/en/arcgis-online/manage-data/add-items.htm)
 
