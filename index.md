@@ -26,7 +26,7 @@ published: true
 >
 > * ArcGIS Online is compatiable with Mac and Windows OS. 
 > 
-> * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/s19tgep4h3pefbioia2emrqnjd2pwsal)
+> * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/yeul97g3hlmt59sqtsatc2m7g7tbth37)
 
 <br>
   <br>
@@ -56,3 +56,9 @@ published: true
       <br>
 
 <iframe src="https://northwestern.maps.arcgis.com/apps/MapJournal/index.html?appid=4c5dccabdc5540e590972b00eb755562" width=900px height=700px></iframe>
+
+<br>
+  <br>
+    <br>
+      <br>
+      
