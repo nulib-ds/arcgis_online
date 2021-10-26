@@ -61,4 +61,9 @@ published: true
   <br>
     <br>
       <br>
-      
+##**Demo Data**
+> [EPA Superfund Sites](https://www.epa.gov/superfund/search-superfund-sites-where-you-live)
+> 
+> [Newark Hospitals](https://data.ci.newark.nj.us/dataset/newark-hospitals)
+> 
+> [US State Boundaries](https://www.census.gov/cgi-bin/geo/shapefiles/index.php)
