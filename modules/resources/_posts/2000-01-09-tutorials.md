@@ -2,6 +2,8 @@
 title: Tutorials and Workflows
 ---
 
+### [**Add Data to Map**](https://doc.arcgis.com/en/arcgis-online/manage-data/add-items.htm)
+
 ### [**Spatial Joins**](https://doc.arcgis.com/en/arcgis-online/analyze/join-features.htm)
 
 ### [**Aggregate Points**](https://doc.arcgis.com/en/arcgis-online/analyze/aggregate-points.htm)
