@@ -6,7 +6,7 @@ title: Tutorials and Workflows
 
 ### [**Spatial Joins**](https://doc.arcgis.com/en/arcgis-online/analyze/join-features.htm)
 
-### [**Aggregate Points**](https://doc.arcgis.com/en/arcgis-online/analyze/aggregate-points.htm)
+### [**Select by Location**](https://doc.arcgis.com/en/arcgis-online/analyze/derive-new-locations.htm)
 
 ### [**Symbolizing in ArcOnline**](https://learn.arcgis.com/en/projects/design-symbology-for-a-thematic-map/arcgis-online/)
 
