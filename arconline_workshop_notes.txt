@@ -1,0 +1,72 @@
+AGO Workshop
+
+_ Let's go to the homepage: https://northwestern.maps.arcgis.com/home/index.html
+
+_ Content page
+
+_ Basics
+	_ Tool Bar (Save, Add Data, Analysis)
+	_ Data frame/Map extent
+		_ Navigation
+		_ Can't change your projection in AGO - all data is projected into Web Mercator
+	_ Basemaps
+	_ Table of Contents
+
+>>> Let's add in data. We'll be working with superfund sites in the contiguous US. A lot of what we'll cover will be repetative to get you used to general workflows you can use when creating your own web map. 
+
+_ Download data - https://northwestern.box.com/s/2hbnwsqojmm5pcdxjropdgszd6wq68rm
+	_ What's in here?
+
+>>> MAP 1 - Superfund Sites by District <<<
+_ Adding data - a couple ways to do this
+	_ Content > create item by "hosting"
+	_ Host Superfund Sites
+	_ Add to Map; check out Attribute Table
+
+_ Change Style to District
+
+_ Add Contiguous United States Boundaries
+
+_ Spatial join > Analysis > Join Features
+
+_ Change symbology based on region_ID field
+
+_ Label regions & add halo
+
+_ Save Map 1
+
+>>> MAP 2 - Choropleth Map<<<
+
+_ Add Superfund Sites & Superfund Sites by District
+	_ Look at attribute table for Superfund Sites by District
+		_ Symbolize by Join_Count
+
+_Enrich layer with Population
+
+_ Divide Join_Count by Population estimate
+	_Change Style to show it's easy to normalize
+
+_ Save MAP 2
+
+>>> MAP 3 - Buffer Analysis<<<
+
+_ Add Contigous United States Boundaries, United States Superfund Sites, & newarkhospitals.shp
+
+_ Filter Contiguous United States to New Jersey
+
+_ Filter United States Superfund Sites to NJ
+
+_ Buffer Analysis for 3 miles
+
+_ Create New Locations
+	_ Superfund sites intersect 3 Mile Buffer
+
+_ Save MAP 3
+
+>>> STORY MAP time (woo) <<<
+
+_ Share link
+
+_ Story Type > Journal 
+
+[Random text](https://www.epa.gov/superfund) to use while you're making your StoryMap. 
