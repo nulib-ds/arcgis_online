@@ -55,7 +55,7 @@ published: true
     <br>
       <br>
 
-<iframe src="https://northwestern.maps.arcgis.com/apps/MapJournal/index.html?appid=4c5dccabdc5540e590972b00eb755562" width=900px height=700px></iframe>
+<iframe src="https://storymaps.arcgis.com/stories/d61ff2593bce4fa2b59f91a07c2e0a9c" width=900px height=700px></iframe>
 
 <br>
   <br>
