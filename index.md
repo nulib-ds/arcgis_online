@@ -54,8 +54,9 @@ published: true
   <br>
     <br>
       <br>
-
-<iframe src="https://storymaps.arcgis.com/stories/d61ff2593bce4fa2b59f91a07c2e0a9c" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+<html>
+      <iframe src="https://storymaps.arcgis.com/stories/d61ff2593bce4fa2b59f91a07c2e0a9c" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+</html>      
 
 <br>
   <br>
