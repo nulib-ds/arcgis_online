@@ -69,7 +69,7 @@ Our data we'll use today comes from here:
 > 
 > [Newark Hospitals](https://data.ci.newark.nj.us/dataset/newark-hospitals)
 > 
-> [US State Boundaries](https://www.census.gov/cgi-bin/geo/shapefiles/index.php)
+> [NJ Counties](https://gisdata-njdep.opendata.arcgis.com/datasets/newjersey::county-boundaries-of-nj)
 
 <br>
   <br>
