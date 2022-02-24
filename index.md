@@ -55,7 +55,7 @@ published: true
     <br>
       <br>
 <html>
-      <iframe src="https://storymaps.arcgis.com/stories/d61ff2593bce4fa2b59f91a07c2e0a9c" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
+      <iframe src="https://storymaps.arcgis.com/stories/2f0263b569c349f1806ed65a592c88a6" width="100%" height="500px" frameborder="0" allowfullscreen allow="geolocation"></iframe>
 </html>      
 
 <br>
@@ -70,24 +70,3 @@ Our data we'll use today comes from here:
 > [Newark Hospitals](https://data.ci.newark.nj.us/dataset/newark-hospitals)
 > 
 > [NJ Counties](https://gisdata-njdep.opendata.arcgis.com/datasets/newjersey::county-boundaries-of-nj)
-
-<br>
-  <br>
-    <br>
-      <br>
-      
-### **During the Demo**
-Copy and paste the text below as needed
-> * State shapefile: `Contiguous United States Boundaries`
-> 
-> * Superfund sites: `United States Superfund Sites`
-> 
-> * Spatial join: `Superfund Sites by Districts`
->
-> * Enrichment analysis: `State Population 2021`
-> 
-> * Buffer Analysis: `Newark Hospitals 3 mile Buffer`
-> 
-> * Select by Location: `Superfund Sites Intersect Newark Hospitals`
-> 
-> * [Random text](https://www.epa.gov/superfund) to use while you're making your StoryMap. 
