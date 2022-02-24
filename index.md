@@ -48,15 +48,7 @@ published: true
 > 
 > * Understand basic mapping functions + tools
 > 
-> * Create a web map using ArcOnline, like this [one](https://arcg.is/1aPLWK0). 
-
-<br>
-  <br>
-    <br>
-      <br>
-<html>
-      <iframe src="https://arcg.is/1aPLWK0" width=900px height=600px></iframe> 
-</html>      
+> * Create a web map using ArcOnline, like this [one](https://arcg.is/1aPLWK0).    
 
 <br>
   <br>
