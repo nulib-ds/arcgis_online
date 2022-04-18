@@ -26,7 +26,7 @@ published: true
 >
 > * ArcGIS Online is compatible with Mac and Windows OS. 
 > 
-> * Want to follow along the demo? [Download Data](https://northwestern.box.com/s/k37igao1hmt4cf7jwdegsyg23iljl2dn)
+> * Want to follow along the demo? [Download Data](https://nuwildcat-my.sharepoint.com/:u:/g/personal/mfn2245_ads_northwestern_edu/EU9glLqMxHtOiAmaHzsw4nEBvccaIEKsslrS14rQC7odcg?e=3amqNy)
 
 <br>
   <br>
@@ -46,7 +46,7 @@ published: true
 > 
 > * Identify different types of GIS data and formats
 > 
-> * Understand basic mapping functions + tools
+> * Understand basic mapping functions and tools
 > 
 > * Create a web map using ArcOnline, like this [one](https://arcg.is/1aPLWK0).    
 
