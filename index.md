@@ -65,7 +65,7 @@ published: true
       <br>
 
 ### **Demo Data**
-Our data we'll use today comes from here:
+The data we'll use today comes from here:
 > [EPA Superfund Sites](https://www.epa.gov/superfund/search-superfund-sites-where-you-live)
 > 
 > [Newark Hospitals](https://data.ci.newark.nj.us/dataset/newark-hospitals)
