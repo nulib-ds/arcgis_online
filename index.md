@@ -48,7 +48,7 @@ published: true
 > 
 > * Understand basic mapping functions and tools
 > 
-> * Create a web map using ArcOnline, like this one:    
+> * Create a web map and StoryMap    
 
 <br>
   <br>
