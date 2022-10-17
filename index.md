@@ -10,7 +10,7 @@ published: true
 ### **Presenters**
 > Kelsey Rydland - Data Science Librarian
 > 
-> Méch Frazier - Geospatial Specialist
+> Méch Frazier - GIS Specialist
 > 
 > Geospatial and Data Services - Northwestern University Libraries
 
@@ -55,15 +55,6 @@ published: true
     <br>
       <br>
       
-<html>
-      <iframe src="https://arcg.is/1aPLWK0" width=900px height=600px></iframe> 
-</html>  
-
-<br>
-  <br>
-    <br>
-      <br>
-
 ### **Demo Data**
 The data we'll use today comes from here:
 > [EPA Superfund Sites](https://www.epa.gov/superfund/search-superfund-sites-where-you-live)
