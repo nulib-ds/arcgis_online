@@ -31,7 +31,6 @@ published: true
 <br>
   <br>
     <br>
-      <br>
 
 ### **Workshop Goal**
 > This workshop is meant to serve as an introduction to esri's ArcGIS Online web-based browser. It's a simple workshop, where you should be able to replicate some of the steps we cover today. You'll also learn about NU's GIS resources, services, and where you can find support for your projects.
@@ -39,7 +38,6 @@ published: true
 <br>
   <br>
     <br>
-      <br>
 
 ### **Learning Outcomes**
 > * Define what GIS and web GIS is
@@ -53,7 +51,6 @@ published: true
 <br>
   <br>
     <br>
-      <br>
       
 ### **Demo Data**
 The data we'll use today comes from here:
