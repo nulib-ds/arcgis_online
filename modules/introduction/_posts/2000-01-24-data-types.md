@@ -21,9 +21,12 @@ are attributes that specify the type of data an object can hold.
 are specific or preferred file extensions for sharing, re-use, and preserving data.
 <br>
 
-> Vector data includes formats like **shapefiles** (.shp). Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
-> 
-> Raster data stores information in a grid of cells, where each cell holds a value. Examples include **GeoTIFF, TIFF, JPG or DEM**
+> Vector data includes formats like **shapefiles** (.shp). 
+> Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
+>
+>
+> Raster data stores information in a grid of cells, where each cell holds a value. 
+> Examples include **GeoTIFF, TIFF, JPG or DEM**
 >
 > <html><img src="https://raw.githubusercontent.com/nulib-ds/arcgis_online/gh-pages/img/vector_raster.png"></html>
 
