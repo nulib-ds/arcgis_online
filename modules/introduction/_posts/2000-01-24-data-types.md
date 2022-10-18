@@ -41,7 +41,3 @@ are specific or preferred file extensions for sharing, re-use, and preserving da
 > 
 > 
 > <html><img src="https://raw.githubusercontent.com/nulib-ds/qgis/gh-pages/img/csv_template.png" alt txt="csv format"></html>
-
-<br>
-  
-For today's workshop, we'll only be using vector data, as raster data tends to be larger and slower to work with. 
