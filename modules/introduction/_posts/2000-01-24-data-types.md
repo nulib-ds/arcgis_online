@@ -15,7 +15,6 @@ are attributes that specify the type of data an object can hold.
 
 <br>
   <br>
-    <br>
 
 ### **Data formats**
 are specific or preferred file extensions for sharing, re-use, and preserving data.
@@ -25,7 +24,8 @@ are specific or preferred file extensions for sharing, re-use, and preserving da
 > 
 > Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
 >
->
+> <br>
+> 
 > Raster data stores information in a grid of cells, where each cell holds a value. <br>
 > Examples include **GeoTIFF, TIFF, JPG or DEM**
 >
