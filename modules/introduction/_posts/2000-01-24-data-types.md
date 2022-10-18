@@ -21,7 +21,7 @@ are attributes that specify the type of data an object can hold.
 are specific or preferred file extensions for sharing, re-use, and preserving data.
 <br>
 
-> Vector data includes formats like **shapefiles** (.shp). 
+> Vector data includes formats like **shapefiles** (.shp). H
 > Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
 >
 >
