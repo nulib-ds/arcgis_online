@@ -57,3 +57,5 @@ The data we'll use today comes from here:
 > [American Community Survey](https://www.census.gov/programs-surveys/acs/)
 > 
 > [Chicago Open Data Portal](https://data.cityofchicago.org/)
+>
+> [Northwestern University Digital Collections](https://digitalcollections.library.northwestern.edu/)
