@@ -26,7 +26,6 @@ published: true
 >
 > * ArcGIS Online is compatible with Mac and Windows OS. 
 > 
-> * Want to follow along the demo? [Download Data](https://nuwildcat-my.sharepoint.com/:u:/g/personal/mfn2245_ads_northwestern_edu/EU9glLqMxHtOiAmaHzsw4nEBvccaIEKsslrS14rQC7odcg?e=3amqNy)
 
 <br>
   <br>
