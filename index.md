@@ -54,8 +54,6 @@ published: true
       
 ### **Demo Data**
 The data we'll use today comes from here:
-> [EPA Superfund Sites](https://www.epa.gov/superfund/search-superfund-sites-where-you-live)
+> [American Community Survey](https://www.census.gov/programs-surveys/acs/)
 > 
-> [Newark Hospitals](https://data.ci.newark.nj.us/dataset/newark-hospitals)
-> 
-> [NJ Counties](https://gisdata-njdep.opendata.arcgis.com/datasets/newjersey::county-boundaries-of-nj)
+> [Chicago Open Data Portal](https://data.cityofchicago.org/)
