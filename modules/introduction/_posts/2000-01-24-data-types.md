@@ -21,9 +21,9 @@ are specific or preferred file extensions for sharing, re-use, and preserving da
 <br>
 
 > Vector data includes formats like **shapefiles** (.shp). <br>
+> Shapefiles are GIS-specific data formats used in both proprietary and open-source software. <br>
+> They come in three types of geometries - points, lines, and polygons. <br>
 > 
-> Shapefiles are GIS-specific data formats used in both proprietary and open-source software. 
->
 > <br>
 > 
 > Raster data stores information in a grid of cells, where each cell holds a value. <br>
