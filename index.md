@@ -53,6 +53,6 @@ published: true
       
 ### **Demo Data**
 The data we'll use today comes from here:
-> [GeoData @ University of texas Libraries](https://geodata.lib.utexas.edu/catalog/stanford-np872wp5062)
+> [GeoData @ University of Texas Libraries](https://geodata.lib.utexas.edu/catalog/stanford-np872wp5062)
 > 
 > [Global earthquakes, Greater Than Magnitude 5.7, from 1997-2007 ](https://www.arcgis.com/home/item.html?id=47da9f0a9c92416794eaefbc882c87c2)
