@@ -45,7 +45,7 @@ published: true
 > 
 > * Understand basic mapping functions and tools
 > 
-> * Create a web map and StoryMap    
+> * Create a basic web map    
 
 <br>
   <br>
@@ -53,8 +53,6 @@ published: true
       
 ### **Demo Data**
 The data we'll use today comes from here:
-> [American Community Survey](https://www.census.gov/programs-surveys/acs/)
+> [GeoData @ University of texas Libraries](https://geodata.lib.utexas.edu/catalog/stanford-np872wp5062)
 > 
-> [Chicago Open Data Portal](https://data.cityofchicago.org/)
->
-> [Northwestern University Digital Collections](https://digitalcollections.library.northwestern.edu/)
+> [Global earthquakes, Greater Than Magnitude 5.7, from 1997-2007 ](https://www.arcgis.com/home/item.html?id=47da9f0a9c92416794eaefbc882c87c2)
